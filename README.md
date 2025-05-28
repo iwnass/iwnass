@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iwnass&show_icons=true&theme=gruvbox&locale=en)
+
 
 <h1 align="center">Hi 👋, I'm Iwnas</h1>
 <h3 align="center">I love working on new ideas, making them come true and work with other people!</h3>
