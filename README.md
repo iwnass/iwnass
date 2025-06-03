@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Electron**
 
-- 👨‍💻 All of my projects are available at [https://iwnasportfolio.netlify.app](https://iwnasportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://iwnasportfolio.netlify.app](https://iwnas-portfolio.vercel.app)
 
 - 💬 Ask me about **React, NodeJS, DiscordBots, HTML, CSS, Javscript**
 
