@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iwnass" alt="iwnass" /></a> </p>
 
-- 🔭 I’m currently working on [Zentra](https://github.com/iwnass/Zentra-App)
+- 🔭 I’m currently working on [4impact.gr]([https://github.com/baby/Zentra-App](https://github.com/Skelly-debug/4impact.gr))
 
 - 🌱 I’m currently learning **Electron**
 
-- 👨‍💻 All of my projects are available at [https://iwnasportfolio.netlify.app](https://iwnas-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at (portfolio down for re-design)
 
 - 💬 Ask me about **React, NodeJS, DiscordBots, HTML, CSS, Javscript**
 
