@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iwnass" alt="iwnass" /></a> </p>
 
-- 🔭 I’m currently working on [4impact.gr]((https://github.com/Skelly-debug/4impact.gr))
+- 🔭 I’m currently working on [4impact.gr](https://github.com/Skelly-debug/4impact.gr)
 
 - 🌱 I’m currently learning **Electron**
 
